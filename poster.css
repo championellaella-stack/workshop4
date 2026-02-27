@@ -1,0 +1,31 @@
+.event{
+font-family:brunson;
+background:#00591b;
+overflow-x:hidden;
+}
+
+p{
+color:white;
+}
+
+
+h2{
+    font-size: 300px;
+    text-align: right;
+    margin-right: 50px;
+    color: red;
+    line-height: 2px;
+    margin-bottom: 100px;
+    letter-spacing: 10px;
+}
+
+p{
+    font-size: 20px;
+    text-align: right;
+    margin-right: 50px;
+}
+
+
+
+
+
